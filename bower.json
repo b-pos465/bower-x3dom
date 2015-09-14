@@ -1,24 +1,23 @@
 {
-  "name": "bower-x3dom",
-  "version": "0.0.1",
-  "authors": [
-    "Stefan Bechert <bechert@infai.org>"
-  ],
-  "main": [
-    "x3dom-full.js"
-    "x3dom.css"
-  ],
-  "description": "Bower package for x3dom-full version 1.7.0",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/b-pos465/bower-x3dom.git"
-  },
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "bower-x3dom",
+    "authors": [
+        "Stefan Bechert <bechert@infai.org>"
+    ],
+    "description": "Bower package for x3dom-full version 1.7.0",
+    "main": [
+        "./x3dom-full.js",
+        "./x3dom.css"
+    ],
+    "moduleType": [
+        "globals"
+    ],
+    "license": "MIT",
+    "homepage": "http://www.x3dom.org/",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
