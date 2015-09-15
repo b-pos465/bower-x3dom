@@ -8,6 +8,7 @@
         "./x3dom.js",
 	"./components/Geometry2D.js",
 	"./components/Geometry3DExt.js",
+        "./components/BVHRefiner.js",
         "./x3dom.css"
     ],
     "moduleType": [
