@@ -3,9 +3,9 @@
     "authors": [
         "Stefan Bechert <bechert@infai.org>"
     ],
-    "description": "Bower package for x3dom-full version 1.7.0",
+    "description": "Bower package for x3dom version 1.7.0",
     "main": [
-        "./x3dom-full.js",
+        "./x3dom.js",
         "./x3dom.css"
     ],
     "moduleType": [
