@@ -6,6 +6,8 @@
     "description": "Bower package for x3dom version 1.7.0",
     "main": [
         "./x3dom.js",
+	"./components/Geometry2D.js",
+	"./components/Geometry3DExt.js",
         "./x3dom.css"
     ],
     "moduleType": [
